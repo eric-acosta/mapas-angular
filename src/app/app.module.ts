@@ -17,7 +17,7 @@ import { AgmCoreModule } from '@agm/core';
     BrowserAnimationsModule,
     MaterialModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyCHq2J3KM9eAqPRbP9f2n475ywGfXhj4vM'
+      apiKey: 'xxxx'
     })
 
   ],
